@@ -1,0 +1,100 @@
+
+.content{
+	padding: 30rpx;
+}
+.SignBox{
+	height: 200rpx;
+	background: #24B353;
+	border-radius: 20rpx;
+}
+.SignMess{
+	height: 70rpx;
+	/* background: pink; */
+	padding: 40rpx 0;
+}
+.SignMessLeft{
+	width: 55%;
+	float: left;
+}
+.SignDay{
+	font-size: 30rpx;
+	color: #3D403E;
+	font-weight: 700;
+}
+.SignDay text:nth-child(1){
+	color: #24B353;
+	margin-left: 10rpx;
+}
+.SignDay text:nth-child(2){
+	color: #24B353;
+}
+.SignOther{
+	color: #AAB2AD;
+	font-size: 24rpx;
+}
+.SignIn{
+		width: 284rpx;
+	    height: 60rpx;
+	    float: right;
+	    background: -webkit-gradient(linear,left top, right top,from(#24B353),to(#2EDF68));
+	    background: -o-linear-gradient(left,#24B353,#2EDF68);
+	    background: linear-gradient(to right,#24B353,#2EDF68);
+	    border-radius: 100rpx;
+	    text-align: center;
+	    color: #fff;
+	    font-size: 24rpx;
+	    line-height: 60rpx;
+}
+/* 积分记录 */
+.IntegralListBox{
+		background: #fff;
+		width: 690rpx;
+		left: 30rpx;
+		border-radius: 10rpx;
+		-webkit-box-shadow: 4rpx 4rpx 4rpx #EEEEEE;
+		        box-shadow: 4rpx 4rpx 4rpx #EEEEEE;
+}
+.IntegralListTit{
+		color: #3D403E;
+		font-size: 30rpx;
+		font-weight: 700;
+		margin: 30rpx 0;
+		padding-left: 20rpx;
+}
+.IntegralList{
+		height: 100rpx;
+		/* background: pink; */
+		padding: 0 20rpx;
+		margin-bottom: 20rpx;
+}
+.IntegralListLeft{
+		width: 50%;
+		float: left;
+}
+.IntegralListLeft text:nth-child(1){
+		color: #303331;
+		font-size: 28rpx;
+		font-weight: 700;
+		display: block;
+		margin-top: 20rpx;
+}
+.IntegralListLeft text:nth-child(2){
+		color: #9DA6A0;
+		font-size: 24rpx;
+		display: block;
+}
+.greencolor{
+		color:#24B353;
+}
+.redcolor{
+		color: #FF4D3D;
+}
+.IntegralListRight{
+		width: 30%;
+		float: right;
+		text-align: right;
+		line-height: 100rpx;
+		font-size: 28rpx;
+		font-weight: 700;
+}
+

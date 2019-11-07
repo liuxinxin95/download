@@ -1,0 +1,59 @@
+
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.content{
+	padding: 30rpx;
+}
+.MesssTit{
+	color: #9DA6A0;
+	font-size: 28rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.Information{
+	height: 100rpx;
+	/* background: pink; */
+	line-height: 100rpx;
+	font-size: 28rpx;
+}
+.Information text:nth-child(1){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	float: left;
+}
+.Information text:nth-child(3){
+	color: #9DA6A0;
+	float: right;
+}
+.Information image{
+	width: 14rpx;
+	height: 28rpx;
+	float: right;
+	margin-top: 36rpx;
+	margin-left: 20rpx;
+}
+.Information input{
+	width: 65%;
+	float: right;
+	height: 100rpx;
+	color: #9DA6A0;
+	font-size: 28rpx;
+	text-align: right;
+}
+.unloadbtn{
+	background: #24B353;
+	width: 690rpx;
+	height: 88rpx;
+	border-radius: 44rpx;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+	margin-top: 60rpx;
+}
+

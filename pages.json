@@ -1,0 +1,232 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "家教"
+			}
+		},{
+			"path": "pages/sort/sort",
+			"style": {
+				"navigationBarTitleText": "分类"
+			}
+		},{
+			"path": "pages/active/active",
+			"style": {
+				"navigationBarTitleText": "活动"
+			}
+		},{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},{
+			"path": "pages/mymessage/mymessage",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},{
+			"path": "pages/name/name",
+			"style": {
+				"navigationBarTitleText": "昵称"
+			}
+		},{
+			"path": "pages/aboutus/aboutus",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},{
+			"path": "pages/reminder/reminder",
+			"style": {
+				"navigationBarTitleText": "消息提醒"
+			}
+		},{
+            "path" : "pages/city/city",
+           "style": {
+           	"navigationBarTitleText": "城市"
+           }
+        },{
+            "path" : "pages/telnum/telnum",
+           "style": {
+           	"navigationBarTitleText": "修改手机号"
+           }
+        },{
+            "path" : "pages/address/address",
+           "style": {
+           	"navigationBarTitleText": "常驻地址"
+           }
+        }
+        ,{
+            "path" : "pages/integral/integral",
+            "style" : {
+				"navigationBarTitleText": "我的积分"
+			}
+        }
+        ,{
+            "path" : "pages/balance/balance",
+           "style" : {
+           	"navigationBarTitleText": "我的余额"
+           }
+        }
+        ,{
+            "path" : "pages/balance1/balance1",
+			"style" : {
+				"navigationBarTitleText": "余额提现"
+			}
+        }
+        ,{
+            "path" : "pages/invitation/invitation",
+			"style" : {
+				"navigationBarTitleText": "邀请注册"
+			}
+        }
+        ,{
+            "path" : "pages/invitationrecode/invitationrecode",
+            "style" : {
+				"navigationBarTitleText": "邀请记录"
+			}
+        }
+        ,{
+            "path" : "pages/report/report",
+            "style" : {
+				"navigationBarTitleText": "我的举报"
+			}
+        }
+        ,{
+            "path" : "pages/appointment/appointment",
+            "style" : {
+				"navigationBarTitleText": "我的预约"
+			}
+        }
+        ,{
+            "path" : "pages/appointmentdetail/appointmentdetail",
+            "style" : {
+				"navigationBarTitleText": "预约详情"
+			}
+        }
+        ,{
+            "path" : "pages/collection/collection",
+            "style" : {
+				"navigationBarTitleText": "我的收藏"
+			}
+        }
+        ,{
+            "path" : "pages/demandstudent/demandstudent",    //学生
+            "style" : {
+				"navigationBarTitleText": "需求发布"
+			}
+        }
+        ,{
+            "path" : "pages/bindtel/bindtel",
+            "style" : {
+				"navigationBarTitleText": "绑定手机号"
+			}
+        }
+        ,{
+            "path" : "pages/selected/selected",
+            "style" : {
+				"navigationBarTitleText": ""
+			}
+        },{
+            "path" : "pages/identity/identity",
+            "style" : {
+				"navigationBarTitleText": "身份选择"
+			}
+        }
+        ,{
+            "path" : "pages/teacherauthentication/teacherauthentication",
+            "style" : {
+				"navigationBarTitleText": "身份认证"
+			}
+        }
+        ,{
+            "path" : "pages/examine/examine",
+            "style" : {
+				"navigationBarTitleText": ""
+			}
+        }
+        ,{
+            "path" : "pages/myteacher/myteacher",
+            "style" : {
+				"navigationBarTitleText": "我的老师"
+			}
+        }
+        ,{
+            "path" : "pages/signin/signin",
+            "style" : {
+				"navigationBarTitleText": "签到"
+			}
+        }
+        ,{
+            "path" : "pages/demand/demand",
+            "style" : {
+				"navigationBarTitleText": "需求管理"
+			}
+        }
+        ,{
+            "path" : "pages/nearby/nearby",
+            "style" : {
+				"navigationBarTitleText": ""
+			}
+        }
+        ,{
+            "path" : "pages/detail/detail",
+            "style" : {
+				"navigationBarTitleText": ""
+			}
+        }
+        ,{
+            "path" : "pages/fees/fees",
+            "style" : {
+				"navigationBarTitleText": "收费标准"
+			}
+        }
+        ,{
+            "path" : "pages/onlineappointment/onlineappointment",
+            "style" : {
+				"navigationBarTitleText": "在线预约"
+			}
+        }
+        ,{
+            "path" : "pages/mapgo/mapgo",
+            "style" : {
+				"navigationBarTitleText": "地图导航"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#595656",
+		"selectedColor":"#313131",
+		"borderStyle":"black",
+		"backgroundColor":"#FFFFFF",
+		"list":[
+			{
+			"pagePath":"pages/index/index",
+			"iconPath":"static/index1.png",
+			"selectedIconPath":"static/index2.png",
+			"text":"首页"
+			},{
+			"pagePath":"pages/sort/sort",
+			"iconPath":"static/sort1.png",
+			"selectedIconPath":"static/sort2.png",
+			"text":"分类"
+			},{
+			"pagePath":"pages/active/active",
+			"iconPath":"static/active1.png",
+			"selectedIconPath":"static/active2.png",
+			"text":"活动"
+			},{
+			"pagePath":"pages/mine/mine",
+			"iconPath":"static/mine1.png",
+			"selectedIconPath":"static/mine2.png",
+			"text":"我的"
+			}
+		]
+	}
+}

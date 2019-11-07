@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "sl-filter": "/components/sl-filter/sl-filter",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

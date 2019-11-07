@@ -1,0 +1,50 @@
+
+.content{
+	padding: 30rpx;
+	font-size: 28rpx;
+	font-weight: 700;
+}
+.Notice{
+	color: #9DA6A0;
+	height: 100rpx;
+	line-height: 100rpx;
+	font-weight: 700;
+}
+.Star{
+	color: #FF4D3D;
+}
+.OnlineList{
+	height: 100rpx;
+	line-height: 100rpx;
+	font-weight: 700;
+}
+.OnlineList input{
+	width: 60%;
+	float: right;
+	font-size: 28rpx;
+	height: 100rpx;
+	text-align: right;
+	color: #9DA6A0;
+}
+.OnlineList image{
+	width: 14rpx;
+	    height: 24rpx;
+		background-size: 100%;
+		float: right;
+		display: block;
+		margin-top: 40rpx;
+		margin-left: 20rpx;
+}
+.ShenBtn{
+	width: 630rpx;
+	height: 88rpx;
+	background: #24b353;
+	margin: 0 auto;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	margin-top: 60rpx;
+	font-size: 28rpx;
+}
+

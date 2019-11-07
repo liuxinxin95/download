@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "需求管理",
+  "usingComponents": {
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action"
+  }
+}

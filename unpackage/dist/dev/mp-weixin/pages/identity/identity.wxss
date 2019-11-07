@@ -1,0 +1,50 @@
+
+.content{
+	padding: 30rpx;
+}
+.IdentityChoose{
+	height: 170rpx;
+}
+.IdentityChoose text:nth-child(1){
+	color: #303331;
+	font-size: 48rpx;
+	font-weight: 700;
+	display: block;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.IdentityChoose text:nth-child(2){
+	color: #9CA69F;
+	font-size: 28rpx;
+	margin-top: 20rpx;
+	display: block;
+}
+.IdentityList{
+	height: 188rpx;
+	border-radius: 20rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-top: 80rpx;
+}
+.IdentityMess{
+	width: 60%;
+	float: left;
+}
+.IdentityMess text:nth-child(1){
+	display: block;
+	font-weight: 700;
+	margin: 60rpx 60rpx 0;
+	font-size: 38rpx;
+}
+.IdentityMess text:nth-child(2){
+	font-size: 24rpx;
+	color: #9CA69F;
+	margin: 60rpx;
+}
+.IdentityList image{
+	width: 188rpx;
+	height: 188rpx;
+	float: right;
+	background-size: 100%;
+}
+

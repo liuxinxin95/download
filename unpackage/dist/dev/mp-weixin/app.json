@@ -1,0 +1,79 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/sort/sort",
+    "pages/active/active",
+    "pages/mine/mine",
+    "pages/mymessage/mymessage",
+    "pages/name/name",
+    "pages/aboutus/aboutus",
+    "pages/reminder/reminder",
+    "pages/city/city",
+    "pages/telnum/telnum",
+    "pages/address/address",
+    "pages/integral/integral",
+    "pages/balance/balance",
+    "pages/balance1/balance1",
+    "pages/invitation/invitation",
+    "pages/invitationrecode/invitationrecode",
+    "pages/report/report",
+    "pages/appointment/appointment",
+    "pages/appointmentdetail/appointmentdetail",
+    "pages/collection/collection",
+    "pages/demandstudent/demandstudent",
+    "pages/bindtel/bindtel",
+    "pages/selected/selected",
+    "pages/identity/identity",
+    "pages/teacherauthentication/teacherauthentication",
+    "pages/examine/examine",
+    "pages/myteacher/myteacher",
+    "pages/signin/signin",
+    "pages/demand/demand",
+    "pages/nearby/nearby",
+    "pages/detail/detail",
+    "pages/fees/fees",
+    "pages/onlineappointment/onlineappointment",
+    "pages/mapgo/mapgo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#595656",
+    "selectedColor": "#313131",
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index1.png",
+        "selectedIconPath": "static/index2.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/sort/sort",
+        "iconPath": "static/sort1.png",
+        "selectedIconPath": "static/sort2.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/active/active",
+        "iconPath": "static/active1.png",
+        "selectedIconPath": "static/active2.png",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/mine1.png",
+        "selectedIconPath": "static/mine2.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap63.json"
+}

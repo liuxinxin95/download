@@ -1,0 +1,121 @@
+
+.content{
+	padding: 15px;
+}
+/* 个人头像信息展示 */
+.MineMessageBox{
+	height: 60px;
+	    /* background: pink; */
+	    padding: 15px;
+		-webkit-box-shadow: 2px 2px 2px #EEEEEE;
+		        box-shadow: 2px 2px 2px #EEEEEE;
+}
+.MineMessage{
+	width: 70%;
+	    float: left;
+}
+.MineMessageName{
+	height: 40px;
+	    line-height: 40px;
+	    color: #303331;
+	    font-size: 20px;
+	    font-weight: 700;
+}
+.MineMessage text:nth-child(1){
+	float: left;
+}
+.MineMessage text:nth-child(2){
+	width: 35px;
+	    height: 19px;
+	    background: #24b353;
+	    border-radius: 10px;
+	    color: #fff;
+	    font-size: 12px;
+	    float: left;
+	    display: block;
+	    line-height: 19px;
+	    text-align: center;
+		margin-top: 10px;
+		    margin-left: 10px;
+}
+.MineMessageEdit{
+	color: #9DA6A0;
+	    font-size: 14px;
+}
+.MineMessageBox image{
+	width: 60px;
+	    height: 60px;
+	    /* background: red; */
+	    float: right;
+		border-radius: 50%;
+		background-size:100% 100% ;
+}
+/* 四个盒子*/
+.MineFourBox{
+	height: 82px;
+	    width: 100%;
+	    /* background: pink; */
+	    margin-top: 15px;
+		-webkit-box-shadow: 2px 2px 2px #EEEEEE;
+		        box-shadow: 2px 2px 2px #EEEEEE;
+}
+.MineFour{
+	width: 25%;
+	    float: left;
+	    /* background: red; */
+	    height: 100%;
+}
+.MineFour image{
+	width: 24px;
+	    height: 24px;
+	    /* background: blue; */
+	    display: block;
+	    margin: 0 auto;
+	    margin-top: 16px;
+		background-size:100% 100% ;
+}
+.MineFour text{
+	color: #303331;
+	    font-size: 12px;
+	    text-align: center;
+	    display: block;
+	    margin-top: 10px;
+}
+/* 列表 */
+.MineListBox{
+	height: 385px;
+	    margin-top: 15px;
+	    /* background: pink; */
+		-webkit-box-shadow: 2px 2px 2px #EEEEEE;
+		        box-shadow: 2px 2px 2px #EEEEEE;
+}
+.MineList{
+	height: 55px;
+	    /* background: red; */
+	    line-height: 55px;
+}
+.MineList image:nth-child(1){
+	width: 16px;
+	    height: 16px;
+	    /* background: blue; */
+	    margin-top: 22px;
+	    margin-left: 10px;
+	    margin-right: 10px;
+	    float: left;
+		background-size: 100% 100%;
+}
+.MineList text:nth-child(2){
+	color: #303331;
+	    font-size: 14px;
+	    line-height: 55px;
+	    float: left;
+}
+.MineList image:nth-child(3){
+	float: right;
+	    width: 7px;
+	    height: 12px;
+	    margin: 0 auto;
+	    margin-right: 20px;
+	    margin-top: 20px;
+}
+

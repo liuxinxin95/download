@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/sort/sort",
+    "pages/active/active",
+    "pages/mine/mine",
+    "pages/mymessage/mymessage",
+    "pages/name/name",
+    "pages/aboutus/aboutus",
+    "pages/reminder/reminder",
+    "pages/city/city",
+    "pages/telnum/telnum",
+    "pages/address/address",
+    "pages/integral/integral",
+    "pages/balance/balance",
+    "pages/balance1/balance1",
+    "pages/invitation/invitation",
+    "pages/invitationrecode/invitationrecode",
+    "pages/report/report",
+    "pages/appointment/appointment",
+    "pages/appointmentdetail/appointmentdetail",
+    "pages/collection/collection",
+    "pages/demandstudent/demandstudent"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "textColor": "#595656",
+    "selectedColor": "#313131",
+    "backgroundColor": "#FFFFFF",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/index1.png",
+        "activeIcon": "static/index2.png"
+      },
+      {
+        "pagePath": "pages/sort/sort",
+        "name": "分类",
+        "icon": "static/sort1.png",
+        "activeIcon": "static/sort2.png"
+      },
+      {
+        "pagePath": "pages/active/active",
+        "name": "活动",
+        "icon": "static/active1.png",
+        "activeIcon": "static/active2.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "name": "我的",
+        "icon": "static/mine1.png",
+        "activeIcon": "static/mine2.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,167 @@
+
+.btnbox .current-h-seg{
+		color: #40CA59;
+}
+.btnbox .current-h-seo{
+		color: #ffa500;
+}
+.activeshow{
+		display: block;
+}
+.activehide{
+		display: none;
+}
+.content{
+	padding: 30rpx;
+}
+.btnbox{
+	width: 345px;
+	height: 110px;
+	-webkit-box-shadow: 2px 2px 2px #eee;
+	        box-shadow: 2px 2px 2px #eee;
+	margin-bottom: 20px;
+}
+.current-h{
+	width: 50%;
+	    float: left;
+}
+.current-h image{
+	width: 44px;
+	    height: 44px;
+	    margin: 0 auto;
+	    display: block;
+	    margin-top: 25px;
+		background-size: 100%;
+}
+.current-h text{
+	color: #3D403E;
+	    font-size: 12px;
+	    text-align: center;
+	    display: block;
+	    margin-top: 10px;
+}
+.ReminderList{
+	padding: 30rpx;
+	/* height: 88upx; */
+	width: 630rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-bottom: 30rpx;
+}
+.ReminderList image{
+	width: 88rpx;
+	height: 88rpx;
+	margin: 0 auto;
+	float: left;
+	margin-right: 32rpx;
+}
+.ReminderListMid{
+	float: left;
+	width: 80%;
+}
+.ReminderListMid text:nth-child(1){
+	font-size: 32rpx;
+	color: #3D403E;
+	display: block;
+	font-weight: 700;
+	float: left;
+}
+.ReminderListMid text:nth-child(2){
+	font-size: 28rpx;
+	color: #AAB3AD;
+	float: right;
+}
+.ReminderListcon{
+	width: 80%;
+	/* float: left; */
+	color: #AAB3AD;
+	font-size: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+	position: relative;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	/* -webkit-line-clamp: 3; */
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
+.ReminderLists{
+	padding: 30rpx;
+	height: 160rpx;
+	width: 630rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-bottom: 30rpx;
+}
+.ReminderLists image{
+	width: 88rpx;
+	height: 88rpx;
+	margin: 0 auto;
+	float: left;
+	margin-right: 32rpx;
+}
+.ReminderListMids{
+	float: left;
+	width: 80%;
+}
+.ReminderListMids text:nth-child(1){
+	font-size: 32rpx;
+	color: #3D403E;
+	display: block;
+	font-weight: 700;
+	float: left;
+}
+.ReminderListMids text:nth-child(2){
+	font-size: 28rpx;
+	color: #AAB3AD;
+	float: right;
+}
+.ReminderListcons{
+	width: 80%;
+	float: left;
+	color: #AAB3AD;
+	font-size: 12px;
+	margin-top: 5px;
+	overflow: hidden;
+	line-height: 20px;
+	position: relative;
+}
+.detailnotice{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	color: #40CA59;
+	font-size: 12px;
+}
+.iconfont{
+	font-size: 12px;
+}
+	/* 隐藏盒子 */
+.showboxinfo{
+	width: 167px;
+	height: 100px;
+}
+.showboxmess{
+	height: 55px;
+	line-height: 20px;
+	text-align: center;
+	color: #303331;
+	font-size: 14px;
+}
+.twobtn{
+	height: 50px;
+	line-height: 50px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	font-size: 14px;
+	border-top: 1px solid #eee;
+}
+.call{
+	color:#24B353
+}
+

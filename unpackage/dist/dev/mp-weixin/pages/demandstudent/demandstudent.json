@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "需求发布",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

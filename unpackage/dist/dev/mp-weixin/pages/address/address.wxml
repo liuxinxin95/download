@@ -1,0 +1,1 @@
+<view class="content"><input type="text" value="" placeholder="请输入你的常驻地址以便老师上门" model="{{address}}" data-event-opts="{{[['input',[['change',['$event']]]]]}}" bindinput="__e"/><view data-event-opts="{{[['tap',[['Keepbtn',['$event']]]]]}}" class="Keepbtn" bindtap="__e">保存</view></view>

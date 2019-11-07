@@ -1,0 +1,36 @@
+
+.content{
+	padding: 30rpx;
+}
+.InvitationRecodeList{
+	width: 630rpx;
+	height: 80rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	padding: 30rpx;
+	border-radius: 20rpx;
+	margin-bottom: 30rpx;
+}
+.InvitationRecodeListLeft{
+	width: 80%;
+	float: left;
+}
+.RecodeName{
+	font-size: 28rpx;
+	color: #303331;
+	font-weight: 700;
+}
+.RecodeTime{
+	font-size: 24rpx;
+	color: #9CA69F;
+	line-height: 40rpx;
+}
+.RecodeCode{
+	width: 20%;
+	float: right;
+	font-size: 28rpx;
+	text-align: right;
+	display: block;
+	line-height: 80rpx;
+}
+

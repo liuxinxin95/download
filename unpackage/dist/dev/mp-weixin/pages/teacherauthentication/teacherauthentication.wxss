@@ -1,0 +1,132 @@
+
+.Num-h-se{
+	color: #24B353;
+}
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.content{
+	padding: 30rpx;
+}
+.IdentityBox{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	height: 100rpx;
+}
+.identityTit{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+.identityTit text:nth-child(1){
+	display: block;
+}
+.IdentityName{
+	width: 630rpx;
+	padding-left: 60rpx;
+	background: #F0F5F2;
+	height: 88rpx;
+	border-radius: 100rpx;
+	font-size: 24rpx;
+	line-height: 88rpx;
+	margin-top: 30rpx;
+}
+.IdentityId{
+	width: 630rpx;
+	padding-left: 60rpx;
+	background: #F0F5F2;
+	height: 88rpx;
+	border-radius: 100rpx;
+	font-size: 24rpx;
+	line-height: 88rpx;
+	margin-top: 30rpx;
+}
+.IdentityYingId{
+	width: 630rpx;
+	padding-left: 60rpx;
+	background: #F0F5F2;
+	height: 88rpx;
+	border-radius: 100rpx;
+	font-size: 24rpx;
+	line-height: 88rpx;
+	margin-top: 30rpx;
+}
+.IDBox{
+	height: 190rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: row;
+	    -ms-flex-flow: row;
+	        flex-flow: row;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	margin-top: 30rpx;
+}
+.IDBox .Idcard{
+	width: 190rpx;
+	height: 190rpx;
+	background: #F0F5F2;
+	border-radius: 8rpx;
+}
+.Idcard image{
+	width: 40rpx;
+	height: 40rpx;
+	margin: 0 auto;
+	display: block;
+	margin-top: 54rpx;
+}
+.Idcard text{
+	color: #9DA6A0;
+	font-size: 24rpx;
+	text-align: center;
+	display: block;
+	margin-top: 20rpx;
+}
+.TeacherBox{
+	height: 190rpx;
+	background: #F0F5F2;
+	margin-top: 30rpx;
+	border-radius: 8rpx;
+}
+.TeacherBox image{
+	width: 40rpx;
+	height: 40rpx;
+	margin: 0 auto;
+	display: block;
+	padding-top: 54rpx;
+}
+.TeacherBox text{
+	color: #9DA6A0;
+	font-size: 24rpx;
+	text-align: center;
+	display: block;
+	margin-top: 20rpx;
+}
+.SureBtn{
+	height: 88rpx;
+	background: #24B353;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+	border-radius: 100rpx;
+	margin-top: 60rpx;
+}
+.Notice{
+	color: #9DA6A0;
+	font-size: 24rpx;
+	text-align: center;
+	display: block;
+	margin-top: 40rpx;
+}
+

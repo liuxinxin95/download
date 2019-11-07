@@ -1,0 +1,98 @@
+
+.AppointmentDetailBox{
+	position: relative;
+	    height: 570px;
+	    width: 325px;
+	    margin: 0 auto;
+	    -webkit-box-shadow: 2px 2px 2px #eee;
+	            box-shadow: 2px 2px 2px #eee;
+	    margin-top: 21px;
+}
+.AppointmentDetailBoxTop{
+	width: 345px;
+	    height: 12px;
+	    position: absolute;
+	    top: -10px;
+	    left: -10px;
+}
+.AppointmentDetail{
+	position: absolute;
+	    top: 0;
+	    left: 0;
+		width: 100%;
+}
+.AppointmentDetailTop{
+	height: 80px;
+	    /* background: pink; */
+	    padding: 15px;
+}
+.AppointmentDetailTop image{
+	width: 80px;
+	    height: 80px;
+	    border-radius: 5px;
+	    margin-right: 15px;
+	    float: left;
+}
+.AppointmentDetailMess{
+	float: left;
+}
+.AppointmentName{
+	color: #303331;
+	    font-size: 15px;
+	    font-weight: 700;
+}
+.AppointmentCon{
+	color: #9CA69F;
+	    font-size: 14px;
+	    height: 30px;
+	    line-height: 30px;
+}
+.AppointmentCon text:nth-child(1){
+	border-right: 1px solid #9CA69F;
+	padding-right: 5px;
+}
+.AppointmentCon text:nth-child(2){
+	padding: 0 5px;
+		border-right: 1px solid #9CA69F
+}
+.AppointmentCon text:nth-child(3){
+	padding-left: 5px;
+}
+.AppointmentMoney{
+	color: #24B353;
+	    font-size: 13px;
+	    margin-top: 10px;
+	    font-weight: 700;
+}
+.AppointmentList{
+	height: 40px;
+	    line-height: 40px;
+	    font-size: 15px;
+		padding: 0 15px;
+}
+.AppointmentList text:nth-child(1){
+	color: #9CA69F;
+	    float: left;
+}
+.AppointmentList text:nth-child(2){
+	color: #303331;
+	    float: right;
+}
+.Line{
+	width: 100%;
+	    border: 1px dashed #eee;
+	    margin-top: 20px;
+}
+.CancelAppointment{
+	width: 295px;
+	    height: 44px;
+	    background: #24B353;
+	    border-radius: 50px;
+	    text-align: center;
+	    line-height: 44px;
+	    color: #fff;
+	    font-size: 14px;
+	    margin: 0 auto;
+	    margin-top: 22px;
+}
+

@@ -1,0 +1,91 @@
+
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.content{
+	padding: 30rpx;
+}
+.AppointmentListBox{
+	height: auto;
+	margin-bottom: 60rpx;
+	    /* background: pink; */
+}
+.AppointmentTime{
+	color: #9CA69F;
+	font-size: 24rpx;
+}
+.AppointmentList{
+	padding: 30rpx;
+	background: #24B353;
+	width: 630rpx;
+	height: 96rpx;
+	color: #fff;
+	border-radius: 20rpx;
+	margin-top: 20rpx;
+	margin-bottom: 30rpx;
+}
+.AppointmentListLeft{
+	width: 20%;
+	float: left;
+	margin-right: 50rpx;
+}
+.AppointmentListLeft text:nth-child(1){
+	font-size: 36rpx;
+	font-weight: 700;
+	display: block;
+}
+.AppointmentListLeft text:nth-child(2){
+	font-size: 24rpx;
+	padding: 6rpx 14rpx;
+	background: #FFB726;
+	border-radius: 100rpx;
+	height: 30rpx;
+	line-height: 30rpx;
+	display: block;
+	text-align: center;
+	margin-top: 6rpx;
+}
+.AppointmentListMid{
+	width: 60%;
+	float: left;
+}
+.AppointmentListName{
+	font-size: 30rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	display: block;
+	font-weight: 700;
+}
+.AppointmentListCon{
+	font-size: 24rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+}
+.AppointmentListCons{
+	font-size: 24rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+}
+.AppointmentListCon text:nth-child(1){
+	border-right: 2rpx solid #fff;
+	padding-right: 10rpx;
+}
+.AppointmentListCon text:nth-child(2){
+	padding: 0 10rpx;
+	border-right: 2rpx solid #fff
+}
+.AppointmentListCon text:nth-child(3){
+	padding-left: 10rpx;
+}
+.AppointmentListRight{
+	width: 10%;
+	float: right;
+	height: 96rpx;
+	line-height: 96rpx;
+	display: block;
+	text-align: right;
+}
+

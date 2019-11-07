@@ -1,0 +1,35 @@
+
+.content{
+	padding: 30rpx;
+	padding-bottom: 80rpx;
+}
+.FeesTit{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+}
+.FeesConList{
+	color: #9CA69F;
+	font-size: 28rpx;
+	/* height: 30px; */
+	line-height: 60rpx;
+}
+.FeesConList text{
+	display: block;
+	color: #313331;
+	text-indent: 2em;
+}
+.CallPhone{
+	background: #24B353;
+	color: #fff;
+	float: right;
+	padding: 2rpx 20rpx;
+	border-radius: 8rpx;
+	margin-right: 90rpx;
+}
+.FeesMess{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+

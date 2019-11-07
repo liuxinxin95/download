@@ -1,0 +1,163 @@
+
+.content{
+	padding: 30rpx;
+}
+.uni-swipe-action{
+	height: 220rpx;
+	margin-bottom: 30rpx;
+	background: none;
+}
+.uni-swipe-action__btn-group{
+	margin-left: 60rpx;
+}
+.ReportList{
+	width: 630rpx;
+	height: 160rpx;
+	padding: 30rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	background: #FFFFFF;
+	border-radius: 16rpx;
+}
+.ReportList image{
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 20rpx;
+	margin-right: 32rpx;
+	float: left;
+}
+.ReportMessage{
+	width: 60%;
+	float: left;
+}
+.ReportName{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+}
+.ReportName text{
+	font-size: 24rpx;
+	color: #FFB726;
+	/* border-radius: 10upx; */
+	/* border: 2upx solid #ffb726; */
+	margin-left: 20rpx;
+	/* padding: 4upx 10upx; */
+	float: right;
+}
+.ReportCon{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+.ReportCons{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+.ReportCon text:nth-child(1){
+	border-right: 2rpx solid #9CA69F;
+	padding-right: 10rpx;
+}
+.ReportCon text:nth-child(2){
+	padding: 0 10rpx;
+	border-right: 2rpx solid #9CA69F;
+}
+.ReportCon text:nth-child(3){
+	padding-left: 10rpx;
+}
+.ReportOther{
+	margin-top: 20rpx;
+}
+.ReportOther text{
+	font-size: 24rpx;
+	color: #fff;
+	/* background: red; */
+	padding: 4rpx 10rpx;
+	border-radius: 10rpx;
+	margin-right: 10rpx;
+	float: left;
+}
+.ReportOther text:nth-child(1){
+	background: #FFB726;
+}
+.ReportOther text:nth-child(2){
+	background: #FF6633;
+}
+.ReportOther text:nth-child(3){
+	background: #FF4D3D;
+}
+.ReportName .orangecolor{
+	color: #FFB726;
+	border-color: #FFB726;
+}
+.ReportName .redcolor{
+	color: #FF4D3D;
+	border-color: #FF4D3D;
+}
+.ReportName .greencolor{
+	color: #24B353;
+	border-color: #24B353;
+}
+.AddTeacher{
+	height: 88rpx;
+	background: #24B353;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+	border-radius: 100rpx;
+	margin-top: 60rpx;
+}
+/* 弹出框 */
+.aa{
+	width: 460rpx;
+	height: 332rpx;
+}
+.addpeople{
+	color: #303331;
+	font-size: 28rpx;
+	text-align: center;
+	display: block;
+	font-weight: 700;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.inputcode{
+	width: 410rpx;
+	height: 88rpx;
+	background: #F0F5F2;
+	border-radius: 100rpx;
+	padding-left: 60rpx;
+	font-size: 24rpx;
+}
+.twobtn{
+	height: 88rpx;
+	line-height: 88rpx;
+	border-top: 2rpx solid #eee;
+	margin-top: 40rpx;
+	font-size: 28rpx;
+}
+.cancel{
+	width: 50%;
+	float: left;
+	text-align: center;
+	line-height: 88rpx;
+	color: #303331;
+}
+.sure{
+	width: 50%;
+	float: left;
+	text-align: center;
+	line-height: 88rpx;
+	color: #24B353;
+}
+.bb{
+	width: 400rpx;
+}
+.surepaytit{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	text-align: center;
+}
+

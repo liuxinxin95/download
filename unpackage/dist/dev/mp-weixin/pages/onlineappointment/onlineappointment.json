@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "在线预约",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

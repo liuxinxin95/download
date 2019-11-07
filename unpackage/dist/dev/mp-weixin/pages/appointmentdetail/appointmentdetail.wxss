@@ -1,0 +1,116 @@
+
+.activeshow{
+		display: block;
+}
+.activehide{
+		display: none;
+}
+.AppointmentDetailBox{
+	position: relative;
+	height:1140rpx;
+	width: 650rpx;
+	margin: 0 auto;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-top: 42rpx;
+}
+.AppointmentDetailBoxTop{
+	width: 690rpx;
+	height: 24rpx;
+	position: absolute;
+	top: -20rpx;
+	left: -20rpx;
+}
+.AppointmentDetail{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.AppointmentDetailTop{
+	height: 160rpx;
+	    /* background: pink; */
+	padding: 30rpx;
+}
+.AppointmentDetailTop image{
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 10rpx;
+	margin-right: 30rpx;
+	float: left;
+}
+.AppointmentDetailMess{
+	float: left;
+}
+.AppointmentName{
+	color: #303331;
+	font-size: 30rpx;
+	font-weight: 700;
+}
+.AppointmentCon{
+	color: #9CA69F;
+	font-size: 28rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.AppointmentCons{
+	color: #9CA69F;
+	font-size: 24rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.AppointmentCon text:nth-child(1){
+	border-right: 2rpx solid #9CA69F;
+	padding-right: 10rpx;
+}
+.AppointmentCon text:nth-child(2){
+	padding: 0 10rpx;
+	border-right: 2rpx solid #9CA69F
+}
+.AppointmentCon text:nth-child(3){
+	padding-left: 10rpx;
+}
+.AppointmentMoney{
+	color: #24B353;
+	font-size: 26rpx;
+	margin-top: 20rpx;
+	font-weight: 700;
+}
+.AppointmentList{
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 30rpx;
+	padding: 0 30rpx;
+}
+.AppointmentList text:nth-child(1){
+	color: #9CA69F;
+	float: left;
+}
+.AppointmentList text:nth-child(2){
+	color: #303331;
+	float: right;
+	white-space: nowrap;
+	overflow: hidden;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	width: 60%;
+	text-align: right;
+}
+.Line{
+	width: 100%;
+	border: 2rpx dashed #eee;
+	margin-top: 40rpx;
+}
+.CancelAppointment{
+	width: 590rpx;
+	height: 88rpx;
+	background: #24B353;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+	margin: 0 auto;
+	margin-top: 44rpx;
+}
+

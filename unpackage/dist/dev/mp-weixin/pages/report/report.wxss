@@ -1,0 +1,81 @@
+
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.content{
+	padding: 30rpx;
+}
+.ReportList{
+	width: 630rpx;
+	height: 160rpx;
+	padding: 30rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-bottom: 30rpx;
+}
+.ReportList image{
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 20rpx;
+	margin-right: 32rpx;
+	float: left;
+}
+.ReportMessage{
+	width: 60%;
+	float: left;
+}
+.ReportName{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+}
+.ReportName text{
+	font-size: 24rpx;
+	color: #FFB726;
+	border-radius: 10rpx;
+	border: 2rpx solid #ffb726;
+	margin-left: 20rpx;
+	padding: 4rpx 10rpx;
+}
+.ReportCon{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+.ReportOther{
+	margin-top: 20rpx;
+}
+.ReportOther text{
+	font-size: 24rpx;
+	color: #fff;
+	/* background: red; */
+	padding: 4rpx 10rpx;
+	border-radius: 10rpx;
+	margin-right: 10rpx;
+	float: left;
+}
+.ReportOther text:nth-child(1){
+	background: #FFB726;
+}
+.ReportOther text:nth-child(2){
+	background: #FF6633;
+}
+.ReportOther text:nth-child(3){
+	background: #FF4D3D;
+}
+.ReportName .orangecolor{
+	color: #FFB726;
+	border-color: #FFB726;
+}
+.ReportName .redcolor{
+	color: #FF4D3D;
+	border-color: #FF4D3D;
+}
+.ReportName .greencolor{
+	color: #24B353;
+	border-color: #24B353;
+}
+

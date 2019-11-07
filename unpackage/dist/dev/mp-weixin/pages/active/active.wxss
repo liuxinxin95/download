@@ -1,0 +1,84 @@
+
+.content{
+	padding: 30rpx;
+	position: relative;
+}
+.ActiveTit{
+	color: #303331;
+	font-size: 38rpx;
+	font-weight: 700;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.yellowcolor{
+	background: #ffb726;
+}
+.greencolor{
+	background: #24B353;
+}
+.orangecolor{
+	background: #FF6633;
+}
+.ActiveCon{
+	height: 476rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin-bottom: 40rpx;
+	overflow: hidden;
+	position: relative;
+}
+.ActiveCon image{
+	width: 100%;
+	height: 328rpx;
+	background-size: 100%;
+	border-radius: 20rpx;
+}
+.ActiveMess{
+	color: #303331;
+	font-size: 32rpx;
+	font-weight: 700;
+	margin-top: 20rpx;
+	padding: 0 20rpx;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	height: 40rpx;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.ActiveOther{
+	font-size: 26rpx;
+	padding: 0 20rpx;
+	margin-top: 20rpx;
+}
+.ActiveTime{
+	color: #666666;
+	width: 80%;
+	float: left;
+}
+.ActiveAdd{
+	float: right;
+	color: #303331;
+}
+.ActiveType{
+	position: absolute;
+	width: 140rpx;
+	height: 40rpx;
+	right: -20rpx;
+	top: 30%;
+	border-radius: 100rpx;
+	font-size: 28rpx;
+	text-align: center;
+	color: #fff;
+}
+.AddBtn{
+	width: 88rpx;
+	height: 88rpx;
+	position: fixed;
+	right: 50rpx;
+	bottom: 200rpx;
+}
+.AddBtn image{
+	width: 88rpx;
+	height: 88rpx;
+}
+

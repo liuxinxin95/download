@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "城市",
+  "usingComponents": {
+    "ss-select-city": "/components/ss-select-city/ss-select-city"
+  }
+}

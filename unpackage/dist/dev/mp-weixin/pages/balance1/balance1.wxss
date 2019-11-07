@@ -1,0 +1,52 @@
+
+.BalanceTi{
+	height: 400rpx;
+	    /* background: pink; */
+}
+.BalanceTi input{
+	height: 160rpx;
+	color: #9DA6A0;
+	font-size: 36rpx;
+	padding-left: 60rpx;
+	background-color: transparent;
+}
+.MayTi{
+	color: #FF4D3D;
+	font-size: 24rpx;
+	text-align: center;
+}
+.SureTi{
+	width: 364rpx;
+	height: 88rpx;
+	background: #24B353;
+	color: #fff;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	font-size: 24rpx;
+	margin: 0 auto;
+	margin-top: 58rpx;
+}
+.NoticeBox{
+	height: 440rpx;
+	width: 610rpx;
+	margin: 0 auto;
+	margin-top: 40rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	padding: 40rpx;
+}
+.NoticeListTit{
+	color: #333;
+	font-size: 28rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+}
+.NoticeListCon{
+	font-size: 24rpx;
+	padding: 0 30rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	color: #999;
+}
+

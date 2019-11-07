@@ -1,0 +1,38 @@
+
+.content{
+	padding: 15px;
+}
+.ReminderList{
+	padding: 15px;
+	    height: 44px;
+	    width: 315px;
+	    -webkit-box-shadow: 2px 2px 2px #eee;
+	            box-shadow: 2px 2px 2px #eee;
+		margin-bottom: 15px;
+}
+.ReminderList image{
+	width: 44px;
+	    height: 44px;
+	    margin: 0 auto;
+	    float: left;
+	    margin-right: 16px;
+}
+.ReminderListMid{
+	float: left;
+}
+.ReminderListMid text:nth-child(1){
+	font-size: 16px;
+	    color: #3D403E;
+	    display: block;
+	    font-weight: 700;
+}
+.ReminderListMid text:nth-child(2){
+	font-size: 14px;
+	    color: #AAB3AD;
+}
+.ReminderListTime{
+	float: right;
+	    color: #AAB3AD;
+	    font-size: 14px;
+}
+

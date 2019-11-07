@@ -1,0 +1,95 @@
+
+.content{
+	padding: 15px;
+}
+.uni-swipe-action{
+	height: 110px;
+	margin-bottom: 15px;
+	background: none;
+}
+.uni-swipe-action__btn-group{
+	margin-left: 30px;
+}
+.ReportList{
+	width: 315px;
+	    height: 80px;
+	    padding: 15px;
+	    -webkit-box-shadow: 2px 2px 2px #eee;
+	            box-shadow: 2px 2px 2px #eee;
+		background: #FFFFFF;
+		border-radius: 8px;
+}
+.ReportList image{
+	width: 80px;
+	    height: 80px;
+	    border-radius: 10px;
+	    margin-right: 16px;
+	    float: left;
+}
+.ReportMessage{
+	width: 60%;
+	    float: left;
+}
+.ReportName{
+	color: #303331;
+	    font-size: 14px;
+	    font-weight: 700;
+}
+.ReportName text{
+	font-size: 12px;
+	    color: #FFB726;
+	    border-radius: 5px;
+	    border: 1px solid #ffb726;
+	    margin-left: 10px;
+	    padding: 2px 5px;
+}
+.ReportCon{
+	color: #9CA69F;
+	    font-size: 14px;
+	    line-height: 30px;
+}
+.ReportCon text:nth-child(1){
+		border-right: 1px solid #9CA69F;
+		    padding-right: 5px;
+}
+.ReportCon text:nth-child(2){
+		padding: 0 5px;
+		    border-right: 1px solid #9CA69F;
+}
+.ReportCon text:nth-child(3){
+		padding-left: 5px;
+}
+.ReportOther{
+	margin-top: 10px;
+}
+.ReportOther text{
+	font-size: 12px;
+	    color: #fff;
+	    /* background: red; */
+	    padding: 2px 5px;
+	    border-radius: 5px;
+	    margin-right: 5px;
+	    float: left;
+}
+.ReportOther text:nth-child(1){
+	background: #FFB726;
+}
+.ReportOther text:nth-child(2){
+	background: #FF6633;
+}
+.ReportOther text:nth-child(3){
+	background: #FF4D3D;
+}
+.ReportName .orangecolor{
+	color: #FFB726;
+	border-color: #FFB726;
+}
+.ReportName .redcolor{
+	color: #FF4D3D;
+	border-color: #FF4D3D;
+}
+.ReportName .greencolor{
+	color: #24B353;
+	border-color: #24B353;
+}
+

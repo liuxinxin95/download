@@ -1,0 +1,1 @@
+<view class="content"><input type="text" placeholder="输入新昵称" model="{{name}}" data-event-opts="{{[['input',[['change',['$event']]]]]}}" bindinput="__e"/><view data-event-opts="{{[['tap',[['Keepbtn',['$event']]]]]}}" class="Keepbtn" bindtap="__e">保存</view></view>

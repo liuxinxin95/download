@@ -1,0 +1,226 @@
+
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.contents{
+	padding: 30rpx;
+}
+.contenttop{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 12px;
+	text-align: center;
+}
+.uni-popup{
+	top:90px
+}
+.iconfont{
+	font-size: 8px;
+	    margin-left: 5px;
+}
+.nearbycon{
+	height: 30px;
+}
+.nearbylist{
+	height: 30px;
+	    line-height: 30px;
+}
+.nearbylist text{
+	width: 75px;
+	height: 30px;
+	border: 1px solid #F0F5F2;
+	display: block;
+	float: left;
+	margin-right: 8px;
+	line-height: 30px;
+	font-size: 12px;
+	text-align: center;
+	border-radius: 20px;
+}
+.nearbylist .check{
+	border: 1px solid 	#24B353;
+}
+.gradecon{
+	font-size: 12px;
+}
+.gradelist{
+	margin-bottom: 10px;
+}
+.gradelist .check{
+	border: 1px solid 	#24B353;
+}
+.gradelisttit{
+	height: 30px;
+	font-size: 14px;
+	line-height: 30px;
+}
+.gradelistcon{
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.gradelistcon text{
+	width: 75px;
+	height: 30px;
+	border: 1px solid #F0F5F2;
+	display: block;
+	float: left;
+	margin-right: 8px;
+	line-height: 30px;
+	font-size: 12px;
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+.selectbtn{
+	height: 60px;
+	    /* background: pink; */
+	    display: -webkit-box;
+	    display: -webkit-flex;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -webkit-flex-wrap: wrap;
+	        -ms-flex-wrap: wrap;
+	            flex-wrap: wrap;
+	    -webkit-justify-content: space-around;
+	        -ms-flex-pack: distribute;
+	            justify-content: space-around;
+	    border-top: 1px solid #F0F5F2;
+}
+.selectbtn .sure{
+	color: #FFFFFF;
+	background: #24B353;
+	border-color: #24B353;
+}
+.selectbtn view{
+	width: 165px;
+	    height: 30px;
+	    /* background: red; */
+	    text-align: center;
+	    border: 1px solid #F0F5F2;
+	    font-size: 12px;
+	    color: #303331;
+	    margin-top: 15px;
+	    line-height: 30px;
+	    border-radius: 50px;
+}
+.ReportList{
+	width: 630rpx;
+	height: 160rpx;
+	padding: 30rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	background: #FFFFFF;
+	border-radius: 16rpx;
+	margin-bottom: 30rpx;
+}
+.ReportList image{
+	width: 160rpx;
+	height: 160rpx;
+	border-radius: 20rpx;
+	margin-right: 32rpx;
+	float: left;
+}
+.ReportMessage{
+	width: 65%;
+	float: left;
+}
+.ReportName{
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+}
+.ReportName text:nth-child(2){
+	font-size: 24rpx;
+	color: rgb(36, 179, 83);
+	border-radius: 100rpx;
+	background: rgba(36,179,83,0.2);
+	margin-left: 20rpx;
+	padding: 4rpx 10rpx;
+	float: right;
+}
+.ReportCon{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+.ReportCons{
+	color: #9CA69F;
+	font-size: 28rpx;
+	line-height: 60rpx;
+}
+.ReportCon text:nth-child(1){
+	border-right: 2rpx solid #9CA69F;
+	padding-right: 10rpx;
+}
+.ReportCon text:nth-child(2){
+	padding: 0 10rpx;
+	border-right: 2rpx solid #9CA69F;
+}
+.ReportCon text:nth-child(3){
+	padding-left: 10rpx;
+}
+.ReportOther{
+	margin-top: 20rpx;
+}
+.ReportOther text{
+	font-size: 24rpx;
+	color: #fff;
+	/* background: red; */
+	padding: 4rpx 10rpx;
+	border-radius: 10rpx;
+	margin-right: 10rpx;
+	float: left;
+}
+.ReportOther text:nth-child(1){
+	background: #FFB726;
+}
+.ReportOther text:nth-child(2){
+	background: #FF6633;
+}
+.ReportOther text:nth-child(3){
+	background: #FF4D3D;
+}
+.ReportName .orangecolor{
+	color: #FFB726;
+	border-color: #FFB726;
+}
+.ReportName .redcolor{
+	color: #FF4D3D;
+	border-color: #FF4D3D;
+}
+.ReportName .greencolor{
+	color: #24B353;
+	border-color: #24B353;
+}
+

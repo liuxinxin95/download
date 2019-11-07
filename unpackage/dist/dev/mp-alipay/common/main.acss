@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page{
+	/* background: #f8f8f8; */
+	/* height: 100%; */
+	font-family:'Arial','PingFang SC';
+}
+@font-face {
+	font-family: "PingFangSC,Regular";
+ 	src: url('http://a.xianzhu.org/fonts/regular.eot');
+ 	src: local('fontName PingFangSC,Regular'),
+    local('fontName'),
+    url('http://a.xianzhu.org/fonts/regular.woff') format('woff'),
+    url('http://a.xianzhu.org/fonts/regular.ttf') format('truetype'),
+    url('http://a.xianzhu.org/fonts/regular.svg') format('svg');
+}
+@font-face {
+	font-family: "PingFang-Bold";
+ 	src: url('http://a.xianzhu.org/fonts/bold.eot');
+ 	src: local('fontName PingFang-Bold'),
+    local('fontName'),
+    url('http://a.xianzhu.org/fonts/bold.woff') format('woff'),
+    url('http://a.xianzhu.org/fonts/bold.ttf') format('truetype'),
+    url('http://a.xianzhu.org/fonts/bold.svg') format('svg');
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 1424556 */
+  src: url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.eot');
+  src: url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_1424556_ddrtyl5djjj.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

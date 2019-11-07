@@ -1,0 +1,47 @@
+
+.content{
+	padding: 30rpx;
+}
+.Edition{
+	color: #9DA6A0;
+	font-size: 28rpx;
+	height: 120rpx;
+	line-height: 120rpx;
+}
+.vlist{
+	height: 100rpx;
+	/* background: pink; */
+	line-height: 100rpx;
+	font-size: 28rpx;
+}
+.vlist text:nth-child(1){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	float: left;
+}
+.vlist text:nth-child(3){
+	/* color: #9DA6A0; */
+	float: right;
+}
+.vlist image{
+	width: 14rpx;
+	height: 24rpx;
+	float: right;
+	margin-top: 36rpx;
+	margin-left: 20rpx;
+}
+.new{
+	width: 32rpx;
+	height: 32rpx;
+	background: red;
+	line-height: 30rpx;
+	display: block;
+	color: #fff;
+	font-size: 24rpx;
+	text-align: center;
+	border-radius: 50%;
+	padding: 2rpx;
+	margin-top: 30rpx;
+}
+

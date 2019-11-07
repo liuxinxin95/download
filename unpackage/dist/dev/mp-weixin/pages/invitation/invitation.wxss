@@ -1,0 +1,92 @@
+
+.InvitationImage{
+	width: 322rpx;
+	height: 236rpx;
+	margin: 0 auto;
+	display: block;
+	margin-top: 44rpx;
+	background-size: 100%;
+}
+.InvitationText{
+	color: #303331;
+	font-size: 28rpx;
+	text-align: center;
+	font-weight: 700;
+	margin-top: 24rpx;
+}
+.InvitationBox{
+	width: 690rpx;
+	height: 466rpx;
+	-webkit-box-shadow: 4rpx 4rpx 4rpx #eee;
+	        box-shadow: 4rpx 4rpx 4rpx #eee;
+	margin: 0 auto;
+	margin-top: 60rpx;
+}
+.InvitationMin{
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+}
+.InvitationMin image{
+	width: 124rpx;
+	height: 4rpx;
+}
+.InvitationMin text{
+	font-size: 28rpx;
+	color: #303331;
+	margin-left: 24rpx;
+	margin-right: 24rpx;
+}
+.InvitationCode{
+	color: #24B353;
+	font-size: 48rpx;
+	text-align: center;
+	font-weight: 700;
+}
+/* 输入框 */
+.InvitationInput{
+	height: 88rpx;
+	padding: 30rpx;
+}
+.InvitationInput input{
+	width: 67%;
+	background: #eee;
+	height: 88rpx;
+	border-radius: 100rpx;
+	padding-left: 60rpx;
+	color: #9DA6A0;
+	font-size: 24rpx;
+	float: left;
+}
+.InvitationGet{
+	width: 20%;
+	float: right;
+	background: #24B353;
+	height: 88rpx;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+}
+.InvitationFriend{
+	width: 630rpx;
+	height: 88rpx;
+	background: #24B353;
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 88rpx;
+	color: #fff;
+	font-size: 28rpx;
+	margin: 0 auto;
+	margin-top: 30rpx;
+}
+.InvitationRecode{
+	color: #24B353;
+	font-size: 28rpx;
+	text-align: center;
+	display: block;
+	text-decoration: underline;
+	margin-top: 20rpx;
+}
+

@@ -1,0 +1,47 @@
+
+.content{
+	padding: 15px;
+}
+.avatarimg{
+	width: 60px;
+	    height: 60px;
+	    margin: 0 auto;
+	    display: block;
+	    margin-top: 30px;
+		margin-bottom: 30px;
+}
+.Information{
+	height: 50px;
+	    /* background: pink; */
+	    line-height: 50px;
+	    font-size: 14px;
+}
+.Information text:nth-child(1){
+	color: #303331;
+	    font-size: 14px;
+	    font-weight: 700;
+	    float: left;
+}
+.Information text:nth-child(3){
+	color: #9DA6A0;
+	    float: right;
+}
+.Information image{
+	width: 7px;
+	    height: 12px;
+	    float: right;
+	    margin-top: 18px;
+	    margin-left: 10px;
+}
+.unloadbtn{
+	background: #24B353;
+	    width: 345px;
+	    height: 44px;
+	    border-radius: 22px;
+	    text-align: center;
+	    line-height: 44px;
+	    color: #fff;
+	    font-size: 14px;
+	    margin-top: 30px;
+}
+

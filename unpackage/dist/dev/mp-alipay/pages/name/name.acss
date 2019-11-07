@@ -1,0 +1,24 @@
+
+input{
+	width: 80%;
+	    height: 44px;
+	    line-height: 44px;
+	    color: #9DA6A0;
+	    font-size: 12px;
+	    margin: 0 auto;
+	    padding-left: 36px;
+	    margin-top: 15px;
+}
+.Keepbtn{
+	background: #24B353;
+	    width: 345px;
+	    height: 44px;
+	    border-radius: 22px;
+	    text-align: center;
+	    line-height: 44px;
+	    color: #fff;
+	    font-size: 14px;
+		margin: 0 auto;
+	    margin-top: 30px;
+}
+

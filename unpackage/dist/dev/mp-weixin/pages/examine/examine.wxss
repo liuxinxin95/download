@@ -1,0 +1,84 @@
+
+.activeshow{
+	display: block;
+}
+.activehide{
+	display: none;
+}
+.Examine image{
+	width: 322rpx;
+	height: 236rpx;
+	margin: 0 auto;
+	display: block;
+	margin-top: 60rpx;
+}
+.Examine text:nth-child(2){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	text-align: center;
+	display: block;
+	margin-top: 42rpx;
+}
+.Examine text:nth-child(3){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	text-align: center;
+	display: block;
+}
+.ExamineSuccess image{
+	width: 322rpx;
+	height: 236rpx;
+	margin: 0 auto;
+	display: block;
+	margin-top: 60rpx;
+}
+.ExamineSuccess text:nth-child(2){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	text-align: center;
+	display: block;
+	margin-top: 42rpx;
+}
+.BackIndex{
+	height: 88rpx;
+	background: #24B353;
+	text-align: center;
+	line-height: 88rpx;
+	margin: 0 auto;
+	color: #fff;
+	font-size: 28rpx;
+	border-radius: 100rpx;
+	margin-top: 312rpx;
+	width: 630rpx;
+}
+.ExamineFail image{
+	width: 322rpx;
+	height: 236rpx;
+	margin: 0 auto;
+	display: block;
+	margin-top: 60rpx;
+}
+.ExamineFail text:nth-child(2){
+	color: #303331;
+	font-size: 28rpx;
+	font-weight: 700;
+	text-align: center;
+	display: block;
+	margin-top: 42rpx;
+}
+.Refresh{
+	height: 88rpx;
+	background: #24B353;
+	text-align: center;
+	line-height: 88rpx;
+	margin: 0 auto;
+	color: #fff;
+	font-size: 28rpx;
+	border-radius: 100rpx;
+	margin-top: 212rpx;
+	width: 630rpx;
+}
+
